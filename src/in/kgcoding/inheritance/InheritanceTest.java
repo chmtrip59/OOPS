@@ -21,6 +21,11 @@ public class InheritanceTest {
 
         motor.start();
 
+        System.out.println(vehicle.toString());
+        System.out.println(vehicle.hashCode());
+//        System.out.println(vehicle.equals());
+        System.out.println(vehicle.getClass());
+
 
     }
 }
