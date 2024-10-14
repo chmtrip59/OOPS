@@ -1,7 +1,6 @@
+package in.kgcoding.inheritance;
 
-import in.kgcoding.inheritance.Vehicle;
-
-public class InheritenceTest {
+public class InheritanceTest {
 
     public static void main(String[] args) {
         
@@ -13,6 +12,15 @@ public class InheritenceTest {
         vehicle.commute();
 
         twoWheeler.commute();
+
+        MotorCycle motor = new MotorCycle();
+
+        motor.commute();
+
+        motor.balance();
+
+        motor.start();
+
 
     }
 }
