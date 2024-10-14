@@ -12,7 +12,7 @@ public class InheritenceTest {
 
         vehicle.commute();
 
-        two.commute
+        twoWheeler.commute();
 
     }
 }
