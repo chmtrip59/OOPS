@@ -3,7 +3,7 @@ package in.CollectionAndGenerics;
 import java.util.ArrayList;
 import java.util.List;
 
-public class List1
+public class TestingList
 {
     // It is an interface and generics and generics is a compile time
     public static void main(String[] args) {
